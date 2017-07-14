@@ -1,5 +1,5 @@
 # spring-cloud-config
-Simple example with Spring Cloud Config and Spring Boot
+Simple example with Spring Cloud Config and Spring Boot backed by properties in https://github.com/BartoszMiller/spring-cloud-config-repo
 
 ##### Server is secured with BASIC authenticaton provided by Spring Security:
 username: *user*
